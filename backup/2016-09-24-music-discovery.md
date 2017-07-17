@@ -4,6 +4,7 @@ title:      Music Discovery
 date:       2016-09-24
 summary:    Previously, music recommenders were just like your friends that shared good music with you. Now, we turn them into hipster music snobs chasing fresh new songs with data science.
 categories: jekyll pixyll
+published:  false
 ---
 
 For large scale recommendation systems, collaborative filtering has been the industry standard algorithm for quite some time. In music, this algorithm will recommend you songs that other people with similar tastes as you are enjoying. This works very well for music with existing usage data. However, this algorithm fails to recommend brand new songs or newer songs that only a few people have listened to. Also known as a cold start problem, this is a major weakness of the collaborative filtering algorithm. There are a lot of great new songs which people may want to check out, so how do we integrate these new songs into our recommendation engine?
