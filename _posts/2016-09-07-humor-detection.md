@@ -4,7 +4,6 @@ title:      Humor Detection
 date:       2016-09-07
 summary:    Understanding humor is the first step to being funny. So can machines detect humor in text?
 categories: jekyll pixyll
-published:  false
 ---
 
 Humor is an interesting problem in artificial intelligence. If I can hold a long conversation with a computer and laugh at its humor, then I would be convinced that we are living in an AI age. The first step to creating a humorous AI agent would be to detect humor in text and have the machine understand what makes its funny.

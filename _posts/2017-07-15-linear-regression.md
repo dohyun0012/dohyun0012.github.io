@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Linear Regression
+title:      Linear Regression Demystified (In Progress)
 date:       2017-07-15
 categories: jekyll post
 ---
